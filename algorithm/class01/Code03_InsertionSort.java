@@ -1,7 +1,7 @@
 /*
  * Copyright
  */
-package algorithm01;
+package algorithm.class01;
 
 import java.util.Arrays;
 

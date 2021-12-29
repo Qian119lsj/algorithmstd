@@ -1,9 +1,7 @@
 /*
  * Copyright
  */
-package algorithm01;
-
-import test.JNITest;
+package algorithm.class01;
 
 import java.util.Arrays;
 
